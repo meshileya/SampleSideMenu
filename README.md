@@ -10,5 +10,9 @@ In the cause of my research, I was able to get SideMenu library, although it was
 
 NOTE: If you are using just pure code without storyboard, you should be able to implement this without any form of issue/challenge in your project and for those using Storyboard, you can as well check out the repo to see how the implementation is.
 
+Check the experience out.
+
+<img src="https://github.com/meshileya/SampleSideMenu/blob/dev/ezgif.com-video-to-gif.gif"/>
+
 
 
